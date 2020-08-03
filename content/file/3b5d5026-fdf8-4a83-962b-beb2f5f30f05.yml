@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3b5d5026-fdf8-4a83-962b-beb2f5f30f05
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 20190805_PK_116.gif
+  uri:
+    -
+      value: 'public://2020-07/20190805_PK_116.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 1901260
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1595816207

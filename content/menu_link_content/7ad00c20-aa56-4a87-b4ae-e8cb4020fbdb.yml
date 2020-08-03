@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 7ad00c20-aa56-4a87-b4ae-e8cb4020fbdb
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    91aee3f3-f060-46ff-a7e5-233366ff1feb: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Directory
+  description:
+    -
+      value: 'Member list and contact info.'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 7
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:91aee3f3-f060-46ff-a7e5-233366ff1feb'
+  revision_translation_affected:
+    -
+      value: true

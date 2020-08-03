@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 03215708-a029-4a72-8a29-793737a5ed6c
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    ecea9e79-8845-49a0-b02e-dbaa9a264dea: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Photo albums'
+  description:
+    -
+      value: 'Pictures from our events'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 3
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:ecea9e79-8845-49a0-b02e-dbaa9a264dea'
+  revision_translation_affected:
+    -
+      value: true

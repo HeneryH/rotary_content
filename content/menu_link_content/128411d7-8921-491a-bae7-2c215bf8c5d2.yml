@@ -1,0 +1,39 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 128411d7-8921-491a-bae7-2c215bf8c5d2
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Get Involved'
+  description:
+    -
+      value: 'What we do and how you can get involved.'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 3
+  expanded:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true

@@ -1,0 +1,32 @@
+{
+    "name": "rotary/rotary_content",
+    "description": "Rotary default content and structure.",
+    "type": "drupal-module",
+    "homepage": "https://drupal.org",
+    "authors": [
+        {
+            "name": "First Last",
+            "homepage": "https://www.drupal.org/u/user",
+            "role": "Maintainer"
+        },
+        {
+            "name": "First Last",
+            "email": "name@domain.com",
+            "homepage": "https://www.drupal.org/u/user",
+            "role": "Co-maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://drupal.org/project/issues/mobile_detect",
+        "irc": "irc://irc.freenode.org/drupal-contribute",
+        "source": "https://cgit.drupalcode.org/mobile_detect"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "~1.0",
+        "drupal/default_content": "~2.0"
+    }
+}
+
+

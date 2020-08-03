@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: b5dcdd1b-7f8a-44ff-9f2c-fb39aa5e2274
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    91aee3f3-f060-46ff-a7e5-233366ff1feb: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: History
+  description:
+    -
+      value: 'A little bit about our local club history.'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 2
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:91aee3f3-f060-46ff-a7e5-233366ff1feb'
+  revision_translation_affected:
+    -
+      value: true

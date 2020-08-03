@@ -1,0 +1,39 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 91aee3f3-f060-46ff-a7e5-233366ff1feb
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'About Our Club'
+  description:
+    -
+      value: 'About our local and regional org.'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 1
+  expanded:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true

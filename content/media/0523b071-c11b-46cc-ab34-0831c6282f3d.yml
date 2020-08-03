@@ -1,0 +1,31 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 0523b071-c11b-46cc-ab34-0831c6282f3d
+  bundle: image
+  default_langcode: en
+  depends:
+    3b5d5026-fdf8-4a83-962b-beb2f5f30f05: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 20190805_PK_116.gif
+  created:
+    -
+      value: 1595816207
+  revision_translation_affected:
+    -
+      value: true
+  field_media_image:
+    -
+      entity: 3b5d5026-fdf8-4a83-962b-beb2f5f30f05
+      alt: 'Eradicating Polio'
+      title: ''
+      width: 2400
+      height: 1600

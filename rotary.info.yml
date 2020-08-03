@@ -1,0 +1,45 @@
+name: 'Rotary default content and structure.'
+type: module
+description: 'Default content and structure for the Rotary kickstart sites.'
+package: Web services
+core_version_requirement: ^8.7.7 || ^9
+dependencies:
+  - default_content:default_content
+
+default_content:
+#    media:
+#      - 0523b071-c11b-46cc-ab34-0831c6282f3d
+#    file:
+#      - 3b5d5026-fdf8-4a83-962b-beb2f5f30f05
+    menu_link_content:
+      - 128411d7-8921-491a-bae7-2c215bf8c5d2
+      - 91aee3f3-f060-46ff-a7e5-233366ff1feb
+      - 944979e1-bbec-4180-a7ac-4cea9f949a61
+      - c68e9d97-807f-4880-81fa-c89d491a9d7c
+      - ecea9e79-8845-49a0-b02e-dbaa9a264dea
+      - 03215708-a029-4a72-8a29-793737a5ed6c
+      - 34d10e3a-40bf-49fc-9106-f2be75dd8dec
+      - 8272bd5d-85b2-461b-8c73-a13dab46a24c
+      - b17e754f-e577-4ebe-9ef4-1408b09a3390
+      - 106b8214-b427-4522-b482-0478cef22948
+      - 39eb7e04-038b-4f3c-862c-c698f010c183
+      - b5dcdd1b-7f8a-44ff-9f2c-fb39aa5e2274
+      - f191ee06-fe0f-4f79-8ad1-b8288d8440b9
+      - 47dcecdf-5771-4698-ad48-5711435ddff3
+      - bd905e2e-a10e-438e-8450-509bef6565c8
+      - f2628358-3213-4653-b209-ad487dd173fa
+      - 23eec7a0-37c8-4a24-a052-12c159248e05
+      - 4e004062-9621-40f5-b911-778490612020
+      - 95d2e80e-4b19-4671-889d-ff2dc7994607  
+      - f2a9864c-c71f-4524-97cb-da8cbbefdedb
+      - 2e0a9eef-621d-4c64-9a8a-6c04e8695974
+      - 7970b580-b7a3-4b49-aa67-89fd24c41743
+      - a912307b-c64b-4a2c-92fc-f040cf973220
+      - c9b4c8ad-8310-464f-b789-6fe170f731b6
+      - fa155ba5-2180-4f7c-bf4e-5acb4b12ff5b
+      - 312d5c12-90ef-4c3c-a4fd-2f2a960eeabe
+      - 7ad00c20-aa56-4a87-b4ae-e8cb4020fbdb
+      - ae8f3020-3b46-4fe1-b95d-cdcf33d93f1e
+      - eb2a074b-2cab-4fc3-b8d3-7939888e4afb
+#    block_content:
+#      - 235b21a7-c5ec-4f85-b4f7-54a2fdd9c46e

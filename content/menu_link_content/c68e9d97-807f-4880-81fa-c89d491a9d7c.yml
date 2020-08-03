@@ -1,0 +1,39 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: c68e9d97-807f-4880-81fa-c89d491a9d7c
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'What is Rotary?'
+  description:
+    -
+      value: 'About our international and national organizations.'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 2
+  expanded:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
