@@ -7,10 +7,6 @@ dependencies:
   - default_content:default_content
 
 default_content:
-#    media:
-#      - 0523b071-c11b-46cc-ab34-0831c6282f3d
-#    file:
-#      - 3b5d5026-fdf8-4a83-962b-beb2f5f30f05
     menu_link_content:
       - 128411d7-8921-491a-bae7-2c215bf8c5d2
       - 91aee3f3-f060-46ff-a7e5-233366ff1feb
@@ -41,5 +37,3 @@ default_content:
       - 7ad00c20-aa56-4a87-b4ae-e8cb4020fbdb
       - ae8f3020-3b46-4fe1-b95d-cdcf33d93f1e
       - eb2a074b-2cab-4fc3-b8d3-7939888e4afb
-#    block_content:
-#      - 235b21a7-c5ec-4f85-b4f7-54a2fdd9c46e
